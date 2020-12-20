@@ -8,10 +8,3 @@
 4. Move the left hand to select different sounds
 5. Strum with the right hand again
 
-Credit to https://freesound.org for the great free sounds.
-
-
-//One click instrument play
-//Any Plane surface can be used
-//AI used to deduct the music
-//
